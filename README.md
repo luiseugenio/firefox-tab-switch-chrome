@@ -2,7 +2,7 @@
 
 A Chrome extension that replicates Firefox's Ctrl+Tab behavior — switching between your two most recently used tabs instead of cycling through them in order.
 
-![Chrome Web Store](https://img.shields.io/chrome-web-store/v/YOUR_EXTENSION_ID?label=Chrome%20Web%20Store)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/v/epaenpmjkncnkjmgkdgklgapoaikadhp?label=Chrome%20Web%20Store)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Why?
