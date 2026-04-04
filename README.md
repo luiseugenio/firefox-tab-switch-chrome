@@ -36,7 +36,7 @@ No content scripts. No data collection. No network requests. Everything stays in
 
 ### From Chrome Web Store
 
-👉 [Install Firefox-Style Tab Switching](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID)
+👉 [Install Firefox-Style Tab Switching](https://chromewebstore.google.com/detail/epaenpmjkncnkjmgkdgklgapoaikadhp)
 
 ### From Source
 
